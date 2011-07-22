@@ -1,6 +1,6 @@
 [submodule "defuse"]
 	path = defuse
-	url = git@github.com:/Roger/defuse.git
+	url = https://github.com:/Roger/defuse.git
 [submodule "pycavane"]
 	path = pycavane
-	url = git@github.com:/Roger/pycavane.git
+	url = https://github.com:/Roger/pycavane.git
